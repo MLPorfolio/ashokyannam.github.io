@@ -1,2 +1,2 @@
 # ashokyannam.github.io
-Github Pages
+Predict_WaitTime_Categories.html
